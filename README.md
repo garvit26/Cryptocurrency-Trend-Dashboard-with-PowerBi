@@ -42,7 +42,3 @@ A dynamic, multi-page Power BI dashboard designed to analyze and visualize histo
 
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
